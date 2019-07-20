@@ -11,5 +11,5 @@ pip install --user bunch
 
 ### Example
 ```
-python e_minor_heartbeat.py
+python hello_world.py
 ```
