@@ -2,14 +2,14 @@
 
 Using the [pyo](https://github.com/belangeo/pyo) library.
 
-## Installation
+### Installation
 ```
 pip install --user wxPython
 pip install --user pyo
 pip install --user bunch
 ```
 
-# Example
+### Example
 ```
 python e_minor_heartbeat.py
 ```
